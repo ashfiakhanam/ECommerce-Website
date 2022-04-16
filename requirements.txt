@@ -1,0 +1,7 @@
+asgiref 
+django 
+Django  
+Pillow 
+pytz 
+sqlparse 
+typing_extensions
