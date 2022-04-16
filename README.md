@@ -5,7 +5,7 @@ This website is developed from the ground. Django , HTML and CSS is the core of 
 
 To run this project you need virtual environment of python.
 
-# Installation
+# Setup Virtual Environment
 
 `pip install virtualenv`
 
